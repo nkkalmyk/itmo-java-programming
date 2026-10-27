@@ -1,9 +1,8 @@
 package pokemons;
-
 import ru.ifmo.se.pokemon.*;
 import moves.*;
 
-public class Porygon extends Pokemon{
+public class Porygon extends Pokemon {
 
     public Porygon(String name, int level) {
         super(name, level);
@@ -12,4 +11,5 @@ public class Porygon extends Pokemon{
         setMove(new IceBeam());
         setMove(new Blizzard());
     }
+
 }
