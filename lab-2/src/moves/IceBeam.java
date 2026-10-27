@@ -14,7 +14,7 @@ public final class IceBeam extends SpecialMove{
     }
     @Override
     protected  String describe(){
-        return "использует icebeam";
+        return "использует Ice Beam";
     }
 }
 

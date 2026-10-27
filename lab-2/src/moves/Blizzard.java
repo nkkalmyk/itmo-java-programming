@@ -13,6 +13,6 @@ public final class Blizzard extends SpecialMove {
     }
     @Override
     protected  String describe(){
-        return "использует blizzard";
+        return "использует Blizzard";
     }
 }

@@ -11,5 +11,5 @@ public final class DefenceCurl extends StatusMove {
     }
     @Override
     protected  String describe() {
-        return "использует defencecurl";
+        return "использует Defence Curl";
     }}
